@@ -1,2 +1,2 @@
 # RedPeak
-RedPeak x Wesley Internship 2024
+RedPeak x Wesley <Internship 2024>
