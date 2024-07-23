@@ -27,7 +27,7 @@ ________________________________________________________________________________
 - Source of Inspiration: [https://www.youtube.com/watch?v=QpzMWQvxXWk&ab_channel=RobMulla](url)
 __________________________________________________________________________________________________________________________________________________________________________________
 
-**(COMPLETED) Google Search Result Web Crawler**
+**(COMPLETED) SERP Web Crawler**
 - Associated client projects: Acer PAP, Acer AI PC, multi-purpose
 - Progress:
   - (WORKING) ogCrawler:
