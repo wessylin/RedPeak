@@ -42,7 +42,7 @@ ________________________________________________________________________________
 **(PAUSED) Dynamic Web to Text Crawler**
   - Associated Client Projects: Acer PAP, Acer AI PC, multi-purpose
   - Progress
-  - Dynamic2Text (PAUSED - Week 1) 
+  - (PAUSED - Week 1) Dynamic2Text 
     - Dynamic2Text attempts to crawl from a given list of dynamic websites and retrieve the desired texts/content.  
     - productSpider.py can successfully crawl the given list of websites and automatically save certain information from each website into distinct HTML files, however, currently, the information retrieved is more inconsistent the more dynamic the website becomes.
     - Challenges faced:
