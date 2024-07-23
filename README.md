@@ -1,23 +1,22 @@
 # RedPeak Global
-RedPeak Global (kyu Collective) x Wesley <Internship 2024>
+**RedPeak Global (kyu Collective) x Wesley <Internship 2024>**
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 GitHub Repository: https://github.com/wessylin/RedPeak
 
 Future Projects (brainstorming):
-1. Social media sentiment analysis
-2. AI Ecosystem & AI PC Trends
-3. Competitor Outlook
-4. Consumer Trends
+1. AI Ecosystem & AI PC Trends
+2. Competitor Outlook
+3. Consumer Trends
 
 ** IFA GPC (Global Press Conference)
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-(COMPLETED) Amazon Product Review Scraper/Analyzer
+**(COMPLETED) Amazon Product Review Scraper/Analyzer**
 - A useful AI tool combining “ImportFromWeb” and GPT for sheets to automatically scrape product reviews on Amazon, and conduct a general sentiment analysis.
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-(COMPLETED) Google Search Result Web Crawler
+**(COMPLETED) Google Search Result Web Crawler**
 - Associated Client Projects: Acer PAP, Acer AI PC, multi-purpose
 - Progress:
   - ogCrawler (Week 1/2):
@@ -40,7 +39,7 @@ ________________________________________________________________________________
   - Future use of Oxylabs may not be free, not expensive either, however, it is important to note its web data-gathering capabilities can be very worth it.
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-(PAUSED) Dynamic Web to Text Crawler
+**(PAUSED) Dynamic Web to Text Crawler**
   - Associated Client Projects: Acer PAP, Acer AI PC, multi-purpose
   - Progress
   - Dynamic2Text (PAUSED - Week 1) 
@@ -55,11 +54,7 @@ ________________________________________________________________________________
     - Jina AI x RedPeak AI Tool: [https://docs.google.com/document/d/1k3H9iOWHVyGHZImtjUyn9eKek3k-dEsq_ZSTa0yGVa8/edit?usp=sharing](url)
 
 - Comments:
-  - By combining ogCrawler and Dynamic2Text, we can automize the first steps of strategy research from search to data consolidation. 
-_________________________________________________________________________________________________________________________________________________________________________________________
-
-(NEXT) Social Media Sentiment Analyzer
-Associated Client Projects: Acer PAP, Acer AI PC
+  - By combining ogCrawler and Dynamic2Text, we can autonomize the first steps of strategy research from search to data consolidation. 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 Reference Resources: 
