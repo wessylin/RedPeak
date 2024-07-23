@@ -30,15 +30,15 @@ ________________________________________________________________________________
 **(COMPLETED) Google Search Result Web Crawler**
 - Associated client projects: Acer PAP, Acer AI PC, multi-purpose
 - Progress:
-  - ogCrawler (Week 1/2):
-  - (WORKING) Version 0: iter_title.py
-    - Successfully scrapes the titles of the top search results on Google
-  - (SCRATCHED) Version 1: iter_plus.py 
-    - Scratched attempt at scraping the title and URL of the top search results on Google
-  - (WORKING/BEST) Version 2: iter_parse.py
-    - Successfully scrapes the titles of the top search results on Google and its URL
-  - (PAUSED) Version 3: iter_news.py
-  - (WORKING/BEST) Advanced Oxylabs x Postman Crawler (Week 2)
+  - (WORKING) ogCrawler:
+    - (WORKING) Version 0: iter_title.py
+      - Successfully scrapes the titles of the top search results on Google
+    - (SCRATCHED) Version 1: iter_plus.py 
+      - Scratched attempt at scraping the title and URL of the top search results on Google
+    - (WORKING/BEST) Version 2: iter_parse.py
+      - Successfully scrapes the titles of the top search results on Google and its URL
+    - (PAUSED) Version 3: iter_news.py
+  - (WORKING/BEST) Advanced Oxylabs x Postman Crawler
     - An advanced SERP scraper API combining Oxylabs and Postman specialized in search result crawling.
     - Capabilities:
       1. Geo-Location
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 **(PAUSED) Dynamic Web to Text Crawler**
   - Associated Client Projects: Acer PAP, Acer AI PC, multi-purpose
   - Progress
-    - (PAUSED - Week 1) Dynamic2Text 
+    - (PAUSED) Dynamic2Text 
       - Dynamic2Text attempts to crawl from a given list of dynamic websites and retrieve the desired texts/content.  
       - productSpider.py can successfully crawl the given list of websites and automatically save certain information from each website into distinct HTML files, however, currently, the information retrieved is more inconsistent the more dynamic the website becomes.
       - Challenges faced:
