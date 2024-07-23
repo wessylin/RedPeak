@@ -16,27 +16,19 @@ ________________________________________________________________________________
 - A useful AI tool combining “ImportFromWeb” and GPT for sheets to automatically scrape product reviews on Amazon, and conduct a general sentiment analysis.
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-**(COMPLETED) Google Search Result Web Crawler**
-- Associated Client Projects: Acer PAP, Acer AI PC, multi-purpose
-- Progress:
-  - ogCrawler (Week 1/2):
-    - (WORKING) Version 0: iter_title.py 
-      - Successfully scrapes the titles of the top search results on Google
-    - (SCRATCHED) Version 1: iter_plus.py 
-      - Scratched attempt at scraping the title and URL of the top search results on Google
-    - (WORKING/BEST) Version 2: iter_parse.py
-      - Successfully scrapes the titles of the top search results on Google and its URL
-    - (PAUSED) Version 3: iter_news.py
-  - (WORKING/BEST) Advanced Oxylabs x Postman Crawler (Week 2)
-    - An advanced SERP scraper API combining Oxylabs and Postman specialized in search result crawling.
-    - Capabilities:
-      - Geo-Location
-      - Search Engine
-      - Dates (before - after)
-      - Page specification
-- Comments: 
-  - ogCrawler is written completely from scratch (proprietary to RedPeak x Wesley)
-  - Future use of Oxylabs may not be free, not expensive either, however, it is important to note its web data-gathering capabilities can be very worth it.
+**(COMPLETED) Amazon Product Review Scraper/Analyzer**
+- Associated client projects: Acer PAP, Acer AI PC, multi-purpose
+- (WORKING) ImportFromWeb x GPT Extension 
+  - A useful AI tool combining “ImportFromWeb” and GPT for sheets to automatically scrape product reviews on Amazon, and conduct a general sentiment analysis.
+- (WORKING/BEST) Sentiment Analyzer - Vader
+  - vader_wes.py is a specialized AI tool that filters and sorts Amazon reviews and performs sentiment analysis on them. It leverages the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analyzer to assess the reviews' tone, word choice, use of emojis, punctuation, capitalization, and other textual elements. The tool generates a compound score for each review, which is then graphed for better visualization during strategy planning and client presentations.
+  - How it works:
+    - The sentiment analyzer uses the VADER NLP model, which employs a dictionary of words and rules to determine the sentiment of a text. After tokenization and segmentation, each word is assigned a valence score reflecting its positivity or negativity. The overall sentiment of the review is then computed based on these scores.
+  - Instructions:
+    - Use a Google Chrome extension to export the desired Amazon reviews of a product into a CSV file.
+    - Indicate the path to the CSV file in the vader_wes.py script.
+    - Execute the script to perform the sentiment analysis and generate the compound score graph.
+- Source of Inspiration: [https://www.youtube.com/watch?v=QpzMWQvxXWk&ab_channel=RobMulla](url)
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 **(PAUSED) Dynamic Web to Text Crawler**
