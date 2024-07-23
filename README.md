@@ -13,10 +13,6 @@ Future Projects (brainstorming):
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 **(COMPLETED) Amazon Product Review Scraper/Analyzer**
-- A useful AI tool combining “ImportFromWeb” and GPT for sheets to automatically scrape product reviews on Amazon, and conduct a general sentiment analysis.
-_________________________________________________________________________________________________________________________________________________________________________________________
-
-**(COMPLETED) Amazon Product Review Scraper/Analyzer**
 - Associated client projects: Acer PAP, Acer AI PC, multi-purpose
 - (WORKING) ImportFromWeb x GPT Extension 
   - A useful AI tool combining “ImportFromWeb” and GPT for sheets to automatically scrape product reviews on Amazon, and conduct a general sentiment analysis.
@@ -29,6 +25,31 @@ ________________________________________________________________________________
     - Indicate the path to the CSV file in the vader_wes.py script.
     - Execute the script to perform the sentiment analysis and generate the compound score graph.
 - Source of Inspiration: [https://www.youtube.com/watch?v=QpzMWQvxXWk&ab_channel=RobMulla](url)
+__________________________________________________________________________________________________________________________________________________________________________________
+
+**(COMPLETED) Google Search Result Web Crawler**
+- Associated client projects: Acer PAP, Acer AI PC, multi-purpose
+- Progress:
+  - ogCrawler (Week 1/2):
+  - (WORKING) Version 0: iter_title.py
+    - Successfully scrapes the titles of the top search results on Google
+  - (SCRATCHED) Version 1: iter_plus.py 
+    - Scratched attempt at scraping the title and URL of the top search results on Google
+  - (WORKING/BEST) Version 2: iter_parse.py
+    - Successfully scrapes the titles of the top search results on Google and its URL
+  - (PAUSED) Version 3: iter_news.py
+  - (WORKING/BEST) Advanced Oxylabs x Postman Crawler (Week 2)
+    - An advanced SERP scraper API combining Oxylabs and Postman specialized in search result crawling.
+    - Capabilities:
+      1. Geo-Location
+      2. Search Engine
+      3. Dates (before - after)
+      4. Page specification 
+- Comments: 
+  - ogCrawler is written completely from scratch (proprietary to RedPeak x Wesley)
+  - Future use of Oxylabs may not be free, not expensive either, however, it is important to note its web data-gathering capabilities can be very worth it.
+
+
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 **(PAUSED) Dynamic Web to Text Crawler**
