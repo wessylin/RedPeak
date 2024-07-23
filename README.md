@@ -42,16 +42,16 @@ ________________________________________________________________________________
 **(PAUSED) Dynamic Web to Text Crawler**
   - Associated Client Projects: Acer PAP, Acer AI PC, multi-purpose
   - Progress
-  - (PAUSED - Week 1) Dynamic2Text 
-    - Dynamic2Text attempts to crawl from a given list of dynamic websites and retrieve the desired texts/content.  
-    - productSpider.py can successfully crawl the given list of websites and automatically save certain information from each website into distinct HTML files, however, currently, the information retrieved is more inconsistent the more dynamic the website becomes.
-    - Challenges faced:
-      1. Some dynamic websites employ robot.txt, an exclusion protocol that prevents crawlers from accessing web content.
-      2. Most of the tech websites we are trying to crawl are dynamic rather than static, adding a layer of complexity to making a high-value crawler. 
-    - Next steps:
-      - Integrate Selenium into Dyanmic2Text. Selenium can support browser automation and mimic human activity. 
-- (GOOD ALTERNATIVE) All-In-One with Jina AI - Search & RAG Solutions
-    - Jina AI x RedPeak AI Tool: [https://docs.google.com/document/d/1k3H9iOWHVyGHZImtjUyn9eKek3k-dEsq_ZSTa0yGVa8/edit?usp=sharing](url)
+    - (PAUSED - Week 1) Dynamic2Text 
+      - Dynamic2Text attempts to crawl from a given list of dynamic websites and retrieve the desired texts/content.  
+      - productSpider.py can successfully crawl the given list of websites and automatically save certain information from each website into distinct HTML files, however, currently, the information retrieved is more inconsistent the more dynamic the website becomes.
+      - Challenges faced:
+        1. Some dynamic websites employ robot.txt, an exclusion protocol that prevents crawlers from accessing web content.
+        2. Most of the tech websites we are trying to crawl are dynamic rather than static, adding a layer of complexity to making a high-value crawler. 
+      - Next steps:
+        - Integrate Selenium into Dyanmic2Text. Selenium can support browser automation and mimic human activity. 
+    - (GOOD ALTERNATIVE) All-In-One with Jina AI - Search & RAG Solutions
+      - Jina AI x RedPeak AI Tool: [https://docs.google.com/document/d/1k3H9iOWHVyGHZImtjUyn9eKek3k-dEsq_ZSTa0yGVa8/edit?usp=sharing](url)
 
 - Comments:
   - By combining ogCrawler and Dynamic2Text, we can autonomize the first steps of strategy research from search to data consolidation. 
