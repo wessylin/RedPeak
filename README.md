@@ -1,5 +1,5 @@
 # RedPeak Global
-**RedPeak Global (kyu Collective) x Wesley <Internship 2024>**
+**RedPeak Global (kyu Collective) x Wesley <2024>**
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 GitHub Repository: https://github.com/wessylin/RedPeak
